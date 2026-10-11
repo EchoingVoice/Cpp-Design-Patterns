@@ -42,6 +42,24 @@
     <ClCompile Include="外观模式.cpp">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="代理模式.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="适配器模式.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="中介者模式.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="状态模式.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="备忘录模式.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="组合模式.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="模板方法.h">
